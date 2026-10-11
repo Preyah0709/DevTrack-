@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "Login button error",
+        "description": "User cannot log in due to broken button functionality",
+        "status": "open",
+        "priority": "critical",
+        "reporter_id": 2,
+        "created_at": "2026-10-11 21:10:21.876508"
+    },
+    {
+        "id": 2,
+        "title": "Page not loading",
+        "description": "Dashboard page fails to load for some users",
+        "status": "open",
+        "priority": "low",
+        "reporter_id": 1,
+        "created_at": "2026-10-11 21:11:25.798095"
+    },
+    {
+        "id": 3,
+        "title": "Password reset issue",
+        "description": "Reset link not sent to user email",
+        "status": "open",
+        "priority": "critical",
+        "reporter_id": 4,
+        "created_at": "2026-10-11 21:11:59.055076"
+    },
+    {
+        "id": 4,
+        "title": "Profile picture upload error",
+        "description": "Users unable to upload profile images",
+        "status": "closed",
+        "priority": "low",
+        "reporter_id": 3,
+        "created_at": "2026-10-11 21:12:28.857648"
+    },
+    {
+        "id": 5,
+        "title": "Search bar malfunction",
+        "description": "Search results not displaying correctly",
+        "status": "closed",
+        "priority": "critical",
+        "reporter_id": 2,
+        "created_at": "2026-10-11 21:13:26.220865"
+    },
+    {
+        "id": 6,
+        "title": "Notification bug",
+        "description": "Users not receiving system notifications",
+        "status": "closed",
+        "priority": "low",
+        "reporter_id": 1,
+        "created_at": "2026-10-11 21:13:46.494268"
+    }
+]
